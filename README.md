@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Melanieperez0205
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning GO and JavaScript
-- 💞️ I’m looking to collaborate with a good team to help each other
+- 🌱 I’m currently learning GO 
 - 📫 How to reach me https://www.linkedin.com/in/melanie-perez-hoyos-02670419b/
 
 <!---
