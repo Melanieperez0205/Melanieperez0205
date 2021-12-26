@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Melanieperez0205
+- 👋 Hi, I’m Melanie Pérez
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning GO 
 - 📫 How to reach me https://www.linkedin.com/in/melanie-perez-hoyos-02670419b/
